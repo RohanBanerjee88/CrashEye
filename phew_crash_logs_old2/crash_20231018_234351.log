@@ -1,0 +1,22 @@
+CRITICAL:root:
+System: Windows
+Node: DESKTOP-0EAS6HL
+Release: 10
+Version: 10.0.22621
+Machine: AMD64
+Processor: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+Total RAM: 16849293312 bytes
+Available RAM: 4905967616 bytes
+RAM Usage: 70.9%
+GPU 0 - Name: NVIDIA GeForce MX570, Memory Total: 2048.0, Memory Used: 0.0, GPU Usage: 0.0%
+
+CRITICAL:root:Fatal error: Segmentation fault
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\Krish\Desktop\Spyder\PROJECTS\Crasheye_backend\Test\new_try\generate_crash.py", line 88, in <module>
+    generate_random_crash()
+  File "C:\Users\Krish\Desktop\Spyder\PROJECTS\Crasheye_backend\Test\new_try\generate_crash.py", line 74, in generate_random_crash
+    fatal_error(system_info)
+  File "C:\Users\Krish\Desktop\Spyder\PROJECTS\Crasheye_backend\Test\new_try\generate_crash.py", line 27, in fatal_error
+    raise Exception("Segmentation fault")
+Exception: Segmentation fault

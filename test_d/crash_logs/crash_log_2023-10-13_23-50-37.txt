@@ -1,0 +1,14 @@
+System Information:
+System: Darwin
+Node: Devs-MacBook-Pro.local
+Release: 22.6.0
+Version: Darwin Kernel Version 22.6.0: Wed Jul  5 22:22:05 PDT 2023; root:xnu-8796.141.3~6/RELEASE_ARM64_T6000
+Machine: x86_64
+Processor: i386
+Total RAM: 17179869184 bytes
+Available RAM: 1316007936 bytes
+RAM Usage: 92.3%
+
+
+Critical Error:
+Critical Error: Internal server error.

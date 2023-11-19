@@ -1,0 +1,21 @@
+ERROR:root:
+System: Windows
+Node: DESKTOP-4HHR1F9
+Release: 10
+Version: 10.0.22621
+Machine: AMD64
+Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+Total RAM: 6323187712 bytes
+Available RAM: 588582912 bytes
+RAM Usage: 90.7%
+
+ERROR:root:Critical error: Data corruption
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "D:\Hackathon\Crasheye_backend\Test\new_try\generate_crash.py", line 92, in <module>
+    generate_random_crash()
+  File "D:\Hackathon\Crasheye_backend\Test\new_try\generate_crash.py", line 81, in generate_random_crash
+    critical_error(system_info)
+  File "D:\Hackathon\Crasheye_backend\Test\new_try\generate_crash.py", line 33, in critical_error
+    raise Exception("Data corruption")
+Exception: Data corruption

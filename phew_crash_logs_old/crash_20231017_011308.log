@@ -1,0 +1,13 @@
+WARNING:root:
+System: Windows
+Node: DESKTOP-0EAS6HL
+Release: 10
+Version: 10.0.22621
+Machine: AMD64
+Processor: Intel64 Family 6 Model 154 Stepping 3, GenuineIntel
+Total RAM: 16849293312 bytes
+Available RAM: 4757155840 bytes
+RAM Usage: 71.8%
+GPU 0 - Name: NVIDIA GeForce MX570, Memory Total: 2048.0, Memory Used: 0.0, GPU Usage: 0.0%
+
+WARNING:root:Warning: High memory usage

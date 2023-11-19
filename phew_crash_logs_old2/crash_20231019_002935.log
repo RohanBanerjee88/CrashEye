@@ -1,0 +1,7 @@
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\Krish\Desktop\Spyder\PROJECTS\Crasheye_backend\Test\new_try\generate_crash.py", line 92, in <module>
+    generate_random_crash()
+  File "C:\Users\Krish\Desktop\Spyder\PROJECTS\Crasheye_backend\Test\new_try\generate_crash.py", line 75, in generate_random_crash
+    upload_crash_to_mongo(file,time_stamp,pl_sys,pl_node,pl_rel,pl_ver,pl_mach,pl_proc,svmem.percent,"FATAL",gpu_sql)
+TypeError: upload_crash_to_mongo() takes 1 positional argument but 11 were given

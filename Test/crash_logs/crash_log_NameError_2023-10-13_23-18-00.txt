@@ -1,0 +1,18 @@
+Error Type: NameError
+System Information:
+System: Windows
+Node: DESKTOP-4HHR1F9
+Release: 10
+Version: 10.0.22621
+Machine: AMD64
+Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+Total RAM: 6323187712 bytes
+Available RAM: 512278528 bytes
+RAM Usage: 91.9%
+
+
+Exception Information:
+Traceback (most recent call last):
+  File "D:\Hackathon\Test\fatal.py", line 60, in generate_random_errors
+    print(my_variable)
+NameError: name 'my_variable' is not defined

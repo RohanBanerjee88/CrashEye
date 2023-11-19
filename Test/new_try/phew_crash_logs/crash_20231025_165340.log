@@ -1,0 +1,12 @@
+WARNING:root:
+System: Windows
+Node: DESKTOP-4HHR1F9
+Release: 10
+Version: 10.0.22621
+Machine: AMD64
+Processor: AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+Total RAM: 6323187712 bytes
+Available RAM: 449310720 bytes
+RAM Usage: 92.9%
+
+WARNING:root:Warning: High memory usage

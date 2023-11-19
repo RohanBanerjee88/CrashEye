@@ -1,0 +1,10 @@
+CRITICAL:root:Fatal error: Segmentation fault
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "c:\Users\Krish\Desktop\Spyder\PROJECTS\Crasheye_backend\Test\new_try\generate_crash.py", line 36, in <module>
+    generate_random_crash()
+  File "c:\Users\Krish\Desktop\Spyder\PROJECTS\Crasheye_backend\Test\new_try\generate_crash.py", line 28, in generate_random_crash
+    fatal_error()
+  File "c:\Users\Krish\Desktop\Spyder\PROJECTS\Crasheye_backend\Test\new_try\generate_crash.py", line 16, in fatal_error
+    raise Exception("Segmentation fault")
+Exception: Segmentation fault

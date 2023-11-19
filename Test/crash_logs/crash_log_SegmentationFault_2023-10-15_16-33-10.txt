@@ -1,0 +1,2 @@
+Error Type: SegmentationFault
+System Information:

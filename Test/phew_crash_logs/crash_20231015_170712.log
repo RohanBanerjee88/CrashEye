@@ -1,0 +1,10 @@
+ERROR:root:Critical error: Data corruption
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "d:\Hackathon\Crasheye_backend\Test\new_try\generate_crash.py", line 36, in <module>
+    generate_random_crash()
+  File "d:\Hackathon\Crasheye_backend\Test\new_try\generate_crash.py", line 30, in generate_random_crash
+    critical_error()
+  File "d:\Hackathon\Crasheye_backend\Test\new_try\generate_crash.py", line 20, in critical_error
+    raise Exception("Data corruption")
+Exception: Data corruption
