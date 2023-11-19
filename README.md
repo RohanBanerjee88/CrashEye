@@ -60,4 +60,3 @@ To view the backend code, navigate to CrashEye/Test/new_try.
 
 ---
 
-This README provides an overview of Crash Eye, its installation process, backend setup, frontend usage, resolving issues, an example usage snippet, contributing guidelines, and a disclaimer for accessing the backend code location. Adjust and expand it further as needed to accurately reflect your project.
